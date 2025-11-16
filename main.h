@@ -1,0 +1,13 @@
+//
+// Created by Jacob Samblanet on 11/15/25.
+//
+
+#ifndef SAMBLANETJACOBASSIGNMENT03_MAIN_H
+#define SAMBLANETJACOBASSIGNMENT03_MAIN_H
+
+
+class main {
+};
+
+
+#endif //SAMBLANETJACOBASSIGNMENT03_MAIN_H
